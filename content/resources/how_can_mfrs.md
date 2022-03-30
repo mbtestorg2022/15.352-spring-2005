@@ -4,6 +4,7 @@ description: Users will be the choosers as to whether to buy or innovate or sele
   a "free" user-developed solution.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-352-managing-innovation-emerging-trends-spring-2005/58e6397149c26652b5bda3749a5fbd92_how_can_mfrs.pdf
 file_type: application/pdf
+parent_uid: 85b33ea9-7271-323b-e674-6ae4183b0435
 resourcetype: Document
 title: how_can_mfrs.pdf
 uid: 58e63971-49c2-6652-b5bd-a3749a5fbd92
